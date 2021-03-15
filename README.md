@@ -6,7 +6,7 @@ Your data exploration is also to lead to an initial very limited data analysis c
 - Compare the number of objects and similar, or producing some simple queries, like 
 - Show top 10 objects lost at XYZ station during a rain or a cold weather
 
-# requirements
+# datasets
 SNCF Open Data https://data.sncf.com/explore/
 Lost objects “Déclarations de pertes” (JSON)
 Found objects “Objets trouvés” (JSON or CSV)
